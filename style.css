@@ -1,0 +1,33 @@
+h1{
+    color:rgb(0,0,0);
+}
+
+/* *{
+    bordor:solid;
+}*/
+
+
+
+.grid img{
+    bordor:2px solid black;
+    bordor-radius:50px;
+}
+.origami{
+    bordor-radius:20px;
+    background-color:white;
+
+    width:310px;
+    font-family:fantasy;
+}
+.menu{
+    display: flex;
+     justify-content: space-between;
+      background-color: ❑black;
+       font-size: 20px; 
+       font-family: sans-serif;
+        font-weight: 400; 
+        color: ■white;
+} 
+    body{ 
+        background-color:11whitesmoke; 
+    
